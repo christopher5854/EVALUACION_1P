@@ -41,7 +41,26 @@
 **📝 Respuesta:**
 
 <!-- Escribe aquí tu respuesta a la Pregunta 1 -->
+-  git clone: copia un repositorio completo de GitHub a tu computadora para trabajar localmente.
+- fork: crea una copia de un repositorio en tu propia cuenta de GitHub, útil para proponer cambios sin afectar el original.
+- git pull: actualiza tu copia local trayendo los últimos cambios del repositorio remoto (por ejemplo, de GitHub).
 
+¿Cómo se realizó el fork?
+Se fue al repositorio original en GitHub del Ingeniero y se hizo clic en el botón "Fork", lo que creó una copia del repositorio en mi cuenta: https://github.com/christopher5854/EVALUACION_1P.git
+
+![alt text](imagenes/image.png)
+
+Cómo se realizó el clone del fork?
+Se ingresó al git bash, buscamos un direccion donde queremos guardar localmente y se usó el comando git clone "https://github.com/christopher5854/EVALUACION_1P.git", con esto ya tengo clonado el repositorio en local.
+
+![alt text](imagenes/image.png)
+
+¿Cómo se verificó que se estaba trabajando sobre el fork y no sobre el repositorio original?
+Se comprobó que la URL del repositorio remoto (git remote -v) apuntaba a mi cuenta tal como se muestra en la imagen.
+
+![alt text](imagenes/image2.png)
+
+commit de la rama main
 ---
 
 ## Pregunta 2 (1 punto)
