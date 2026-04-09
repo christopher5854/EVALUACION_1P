@@ -85,6 +85,17 @@ commit de la rama main
 **📝 Respuesta:**
 
 <!-- Escribe aquí tu explicación y evidencia para la Pregunta 2 -->
+se agrego el archivo .gitignore y se agrego el archivo prueba.md y prueba.txt como se muestra en la imagen
+![alt text](imagenes/image5.png)
+
+El archivo .gitignore permite excluir archivos y carpetas del control de versiones de Git.
+Esto es útil para evitar subir archivos innecesarios como logs, archivos temporales o documentación específica.
+
+En este caso se configuró para:
+
+Ignorar todos los archivos .log
+Ignorar la carpeta temp/
+Ignorar archivos .md y .txt dentro de la carpeta doc/
 
 ---
 
