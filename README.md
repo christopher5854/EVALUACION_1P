@@ -1,10 +1,10 @@
-# Universidad [Nombre de la Universidad]  
-## Facultad de [Nombre de la Facultad]  
-### Carrera de [Nombre de la Carrera]  
+# Universidad [TECNICA DE AMBATO]
+## Facultad de [FACULTAD INGENIERIA EN SISTEMAS, ELECTRONICA E IDUSTRIAL]
+### Carrera de [INGENIERIA EN SOFTWARE]
 
 **Asignatura:** Manejo y Configuración de Software  
-**Nombre del Estudiante:** ___________________________  
-**Fecha:** ___________________  
+**Nombre del Estudiante:** Christopher Alexander Toa Perrazo  
+**Fecha:** 08-04-2025
 
 ---
 
@@ -97,6 +97,7 @@ Ignorar todos los archivos .log
 Ignorar la carpeta temp/
 Ignorar archivos .md y .txt dentro de la carpeta doc/
 
+![alt text](imagenes/image6.png)
 ---
 
 ## Pregunta 3 (2 puntos)
