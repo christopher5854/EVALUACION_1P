@@ -127,7 +127,7 @@ Ignorar archivos .md y .txt dentro de la carpeta doc/
 **📝 Respuesta:**
 
 <!-- Escribe aquí tu respuesta completa a la Pregunta 3 -->
-
+![alt text](image8.png)
 ---
 
 ## Pregunta 4 (2 puntos)
