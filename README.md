@@ -61,6 +61,8 @@ Se comprobó que la URL del repositorio remoto (git remote -v) apuntaba a mi cue
 ![alt text](imagenes/image2.png)
 
 commit de la rama main
+![alt text](imagenes/image3.png)
+![alt text](imagenes/image4.png)
 ---
 
 ## Pregunta 2 (1 punto)
